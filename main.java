@@ -15,6 +15,7 @@ public class Factorial {
 		System.out.println("fibonaci :"+a);
 			a=a+b;
 			b=a-b;
+			b=b-a;
 			}
 			}
 }
