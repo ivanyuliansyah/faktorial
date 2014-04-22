@@ -1,0 +1,4 @@
+faktorial
+=========
+
+nomor2
